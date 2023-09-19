@@ -1,5 +1,3 @@
-# powershell commands
-
 Set-Service AxInstSV -StartupType Disabled
 Set-Service tzautoupdate -StartupType Disabled
 Set-Service bthserv -StartupType Disabled
