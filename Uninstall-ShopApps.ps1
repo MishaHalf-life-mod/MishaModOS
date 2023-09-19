@@ -1,4 +1,3 @@
-# powershell commands
 Get-AppxPackage *print3d* | Remove-AppxPackage
 Get-AppxPackage *3dviewer* | Remove-AppxPackage
 Get-AppxPackage *zune* | Remove-AppxPackage
